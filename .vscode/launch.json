@@ -1,0 +1,520 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "sol1",
+      "request": "launch",
+      "mainClass": "practice.sol1",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "practice.Solution",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "p",
+      "request": "launch",
+      "mainClass": "practice.p",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "practice.Main",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "New",
+      "request": "launch",
+      "mainClass": "practice.New",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "solve",
+      "request": "launch",
+      "mainClass": "practice.solve",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "BT",
+      "request": "launch",
+      "mainClass": "practice.BT",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Q",
+      "request": "launch",
+      "mainClass": "questions.Q",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Merge_k_Sorted_ListsH",
+      "request": "launch",
+      "mainClass": "questions.Merge_k_Sorted_ListsH",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "Trees.BinaryTree",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Cirmain",
+      "request": "launch",
+      "mainClass": "queues.Cirmain",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "QueueMain",
+      "request": "launch",
+      "mainClass": "queues.QueueMain",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "StackMain",
+      "request": "launch",
+      "mainClass": "Stacks.StackMain",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "MazeOfTheMind",
+      "request": "launch",
+      "mainClass": "Project.MazeOfTheMind",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "prec",
+      "request": "launch",
+      "mainClass": "introduction.prec",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "InBuild",
+      "request": "launch",
+      "mainClass": "Stacks.InBuild",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "Project.TicTacToe",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "AlienChase",
+      "request": "launch",
+      "mainClass": "Project.AlienChase",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "DragonSlayerGame",
+      "request": "launch",
+      "mainClass": "Project.DragonSlayerGame",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "AlienChase",
+      "request": "launch",
+      "mainClass": "projects.AlienChase",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "projects.TicTacToe",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "m",
+      "request": "launch",
+      "mainClass": "node.m",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "node1",
+      "request": "launch",
+      "mainClass": "node.node1",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "today123",
+      "request": "launch",
+      "mainClass": "introduction.today123",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "treeee",
+      "request": "launch",
+      "mainClass": "introduction.treeee",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "toaday",
+      "request": "launch",
+      "mainClass": "introduction.toaday",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "hedecd",
+      "request": "launch",
+      "mainClass": "introduction.hedecd",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "clasinjava.Main",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "box2",
+      "request": "launch",
+      "mainClass": "clasinjava.box2",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortQ",
+      "request": "launch",
+      "mainClass": "introduction.MergeSortQ",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "introduction.MergeSort",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "M",
+      "request": "launch",
+      "mainClass": "introduction.M",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "RecPat",
+      "request": "launch",
+      "mainClass": "introduction.RecPat",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "List",
+      "request": "launch",
+      "mainClass": "introduction.List",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "LinearRec",
+      "request": "launch",
+      "mainClass": "introduction.LinearRec",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "SortRec",
+      "request": "launch",
+      "mainClass": "introduction.SortRec",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Steps",
+      "request": "launch",
+      "mainClass": "introduction.Steps",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Recrev",
+      "request": "launch",
+      "mainClass": "introduction.Recrev",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Sortedarr",
+      "request": "launch",
+      "mainClass": "introduction.Sortedarr",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "BinaryRec",
+      "request": "launch",
+      "mainClass": "introduction.BinaryRec",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Leet1",
+      "request": "launch",
+      "mainClass": "introduction.Leet1",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Insertion",
+      "request": "launch",
+      "mainClass": "introduction.Insertion",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Select",
+      "request": "launch",
+      "mainClass": "introduction.Select",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Bubble",
+      "request": "launch",
+      "mainClass": "introduction.Bubble",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Binary",
+      "request": "launch",
+      "mainClass": "introduction.Binary",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "practuve",
+      "request": "launch",
+      "mainClass": "introduction.practuve",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Linear",
+      "request": "launch",
+      "mainClass": "introduction.Linear",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Maxarrray",
+      "request": "launch",
+      "mainClass": "introduction.Maxarrray",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "introduction.Array",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "varargs",
+      "request": "launch",
+      "mainClass": "introduction.varargs",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "S",
+      "request": "launch",
+      "mainClass": "introduction.S",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Return2",
+      "request": "launch",
+      "mainClass": "introduction.Return2",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Return",
+      "request": "launch",
+      "mainClass": "introduction.Return",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Switch2",
+      "request": "launch",
+      "mainClass": "introduction.Switch2",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "introduction.Switch",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "introduction.Test",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "introduction.Calculator",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "introduction.Reverse",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "introduction.Fibonacci",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Forloop",
+      "request": "launch",
+      "mainClass": "introduction.Forloop",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "introduction.Hello",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Ifelse",
+      "request": "launch",
+      "mainClass": "introduction.Ifelse",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Largest",
+      "request": "launch",
+      "mainClass": "introduction.Largest",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Roll",
+      "request": "launch",
+      "mainClass": "introduction.Roll",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Sdaf",
+      "request": "launch",
+      "mainClass": "introduction.Sdaf",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "introduction.Sum",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Sums",
+      "request": "launch",
+      "mainClass": "introduction.Sums",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "Two",
+      "request": "launch",
+      "mainClass": "introduction.Two",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "While",
+      "request": "launch",
+      "mainClass": "introduction.While",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/java DSA bootcamp/java-dsa-kunal/src/c",
+      "program": "d:/java DSA bootcamp/java-dsa-kunal/src/c/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

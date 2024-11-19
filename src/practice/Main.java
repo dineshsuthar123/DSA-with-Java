@@ -2,7 +2,6 @@ package practice;
 
 public class Main {
 
-    // Binary Search Tree (BST) class
     public static class BST {
         public class Node {
             private final int value;

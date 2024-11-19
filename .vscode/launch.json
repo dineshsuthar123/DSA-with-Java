@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "HashMaps.Main",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "IntroToHash",
+      "request": "launch",
+      "mainClass": "HashMaps.IntroToHash",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "LibrarySystem",
+      "request": "launch",
+      "mainClass": "Project.LibrarySystem",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "LibrarySystem",
+      "request": "launch",
+      "mainClass": "Project.LibrarySystem.LibrarySystem",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
       "name": "sol1",
       "request": "launch",
       "mainClass": "practice.sol1",

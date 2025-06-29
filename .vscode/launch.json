@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_2",
+      "request": "launch",
+      "mainClass": "_2",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "_1",
+      "request": "launch",
+      "mainClass": "_1",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
+      "name": "D1",
+      "request": "launch",
+      "mainClass": "node.D1",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "HashMaps.Main",

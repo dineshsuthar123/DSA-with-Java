@@ -6,18 +6,15 @@ public class KarSalesman {
     static class Car implements Comparable<Car> {
         int quality;
         int cost;
-
         Car(int quality, int cost) {
             this.quality = quality;
             this.cost = cost;
         }
-
         @Override
         public int compareTo(Car other) {
             return Integer.compare(this.cost, other.cost);
         }
     }
-
     public static void solve(Scanner scanner) {
         int n = scanner.nextInt();
         int k = scanner.nextInt();

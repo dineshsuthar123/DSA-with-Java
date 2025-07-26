@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "segmentTree",
+      "request": "launch",
+      "mainClass": "Trees.segmentTree",
+      "projectName": "java-dsa-kunal_fc29e3b2"
+    },
+    {
+      "type": "java",
       "name": "_2",
       "request": "launch",
       "mainClass": "_2",

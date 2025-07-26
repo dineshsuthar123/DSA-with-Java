@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab9 {
+public class _9 {
     static void floyd(int D[][], int n) {
         for (int k = 0; k < n; k++)
             for (int i = 0; i < n; i++)

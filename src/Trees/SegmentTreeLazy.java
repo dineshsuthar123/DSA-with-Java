@@ -1,6 +1,3 @@
-// Segment Tree with Lazy Propagation for Range Sum Queries and Updates
-// Author: GitHub Copilot
-
 public class SegmentTreeLazy {
     private int[] tree, lazy;
     private int n;
